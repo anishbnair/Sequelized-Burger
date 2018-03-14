@@ -1,0 +1,110 @@
+html {
+	background-color: #F5D769;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+	font-size: 30px;
+	text-align: center;
+	color: red;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+	text-align: center;
+}
+
+section {
+	float: left;
+	width: 50%;
+}
+
+span {
+	float: left;
+}
+
+#burger-list {
+	margin-left: 20%;
+}
+
+#burger-list-item {
+	background: white;
+  	padding-left: 5%;
+  	padding-top: 1%;
+  	padding-bottom: 2%;
+  	border: 1%;
+}
+
+#burger-submit {
+	float: right;
+	vertical-align: top;
+}
+
+#devour-button {
+	position: relative;
+	bottom: -14px;
+	margin-left: 4%;
+}
+
+#hamburger-image {
+	width: 20%;
+	position: relative;
+	left: 39%;
+}
+
+#new-burger {
+	clear: both;
+	margin-left: 24%;
+	width: 55%;
+}
+
+#new-burger-submit {
+	position: relative;
+	left: 40%;
+	background-color: #4e91fd;
+	color: white;
+}
+
+#new-burger-text {
+	width: 45%;
+	position: relative;
+	left: 25%;
+}
+
+.available-burger {
+}
+
+.burgers {
+	width:	70%;
+	background: white;
+	padding-left: 5%;
+	padding-top: 1%;
+	padding-bottom: 2%;
+	margin: 1%;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.devour-burger {
+	width: 60%;
+	background: white;
+	border-style: ridge;
+	border-width: 1px;
+  	padding-left: 5%;
+  	padding-top: 1%;
+  	padding-bottom: 2%;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
